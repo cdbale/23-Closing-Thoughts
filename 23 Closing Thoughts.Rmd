@@ -1,0 +1,62 @@
+---
+title: "Closing Thoughts"
+subtitle: "MKTG 411 Marketing Analytics"
+output: 
+  ioslides_presentation:
+    widescreen: true
+    css: style.css
+---
+
+## You Did It!!
+
+Give yourselves a round of applause!
+
+## Some Statistics
+
+Approximately 117 quiz submissions.
+
+Approximately 117 project submissions (by the end of the course).
+
+Approximately 800 exercise submissions!
+
+## Closing Thoughts Pt. 1
+
+One of my very valuable teaching assistants has asked me to share some thoughts...
+
+---
+
+1.	**Stay curious**. Ask *why* the data looks the way it does. Ask *what* could happen if you made a different choice.
+2.	**Think like a decision-maker**. Numbers matter, but so does the story. Learn to communicate your findings clearly and confidently.
+3.	**Don’t fear complexity but seek clarity**. Models can be powerful, but the most valuable insights are the ones people can understand and act on.
+4.	**Keep learning**. Tools will change—today it’s R, Python, Tableau; tomorrow it might be something else. But your ability to think analytically and make sense of the noise? That’s your superpower.
+
+## Sincerely,
+
+<center>
+![](Figures/chat-gpt.png){width=600px}
+</center>
+
+## Request for Closing Remarks from ChatGPT
+
+"Pretend that you are a very valuable tutor for a marketing analytics class. The students have been coming to you for help throughout the semester, but the class is coming to an end. Do you have any last thoughts/closing remarks for your students?"
+
+## Does This Remind you of Your Life?
+
+## Does This Remind you of Your Life?
+
+<center>
+![](Figures/acrobat.png){width=600px}
+</center>
+
+## There is No Such Thing As Balance
+
+https://www.youtube.com/watch?v=aVYPEjTiOmo
+
+## Final Thoughts
+
+Elder Uchtdorf:
+
+- don't let go of the ideal
+- don't disregard the real
+
+- if you wait for sorrow to end before you experience joy, you might miss joy completely
