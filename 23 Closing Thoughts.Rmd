@@ -7,6 +7,40 @@ output:
     css: style.css
 ---
 
+## Ask Yourself the Following
+
+Did I use AI to complete the assignment, or did AI complete the assignment for me?
+
+- Review your work. Make sure you incorporate *originality* and *creativity* in the analysis **and** your recommendations.
+
+Did I provide commentary for *every* decision in my analysis?
+
+- Review your work. Add comments and descriptions of every piece of code!
+
+## Ask Yourself the Following (Pt. 2)
+
+Is the workflow in my analysis consistent with what we learned in class?
+
+- You will not be penalized for adding extra steps as long as you provide justification.
+- You *will* be penalized for omitting important steps (*e.g.*,
+  * data cleaning
+  * data exploration
+  * data pre-processing/feature engineering (including splitting the data)
+  * etc.
+  
+## Ask Yourself the Following (Pt. 3)
+
+Is my executive summary distinct from my technical report?
+
+- Your **technical report** provides all the context for your decisions.
+- Your **executive summary** should focus on recommendations and insights. Only add data descriptions and context *where absolutely necessary*.
+
+## Ask Yourself the Following (Pt. 4)
+
+Did I turn in my QMD file, rendered QMD file, and executive summary?
+
+## Questions?
+
 ## You Did It!!
 
 Give yourselves a round of applause!
