@@ -1,6 +1,6 @@
 ---
 title: "Closing Thoughts"
-subtitle: "MKTG 411 Marketing Analytics"
+subtitle: "MCB Consulting Group (MKTG 411)"
 output: 
   ioslides_presentation:
     widescreen: true
@@ -13,11 +13,11 @@ Give yourselves a round of applause!
 
 ## Some Statistics
 
-Approximately 117 quiz submissions.
+Approximately 165 quiz submissions.
 
-Approximately 117 project submissions (by the end of the course).
+Approximately 165 project submissions (by the end of the course).
 
-Approximately 800 exercise submissions!
+Approximately 990 exercise submissions!
 
 ## Closing Thoughts Pt. 1
 
@@ -40,23 +40,47 @@ One of my very valuable teaching assistants has asked me to share some thoughts.
 
 "Pretend that you are a very valuable tutor for a marketing analytics class. The students have been coming to you for help throughout the semester, but the class is coming to an end. Do you have any last thoughts/closing remarks for your students?"
 
-## Does This Remind you of Your Life?
-
-## Does This Remind you of Your Life?
+## Do You Sometimes Feel Like This?
 
 <center>
 ![](Figures/acrobat.png){width=600px}
 </center>
 
-## There is No Such Thing As Balance
+## Balance is Bogus!
 
 https://www.youtube.com/watch?v=aVYPEjTiOmo
 
 ## Final Thoughts
 
-Elder Uchtdorf:
+"The gospel of Jesus Christ is a gospel of high ideals. Many of us are drawn to the Savior precisely because He lifts our sights and our aspirations high above and beyond anything the world has to offer."
 
-- don't let go of the ideal
-- don't disregard the real
+[Joyfully Receive the Unexpected Messiah](https://speeches.byu.edu/talks/dieter-f-uchtdorf/joyfully-receive-the-unexpected-messiah/), Dieter F. Uchtdorf, April 2025.
 
-- if you wait for sorrow to end before you experience joy, you might miss joy completely
+## Final Thoughts
+
+"...it shouldn't come as a surprise that [gospel ideals] don't always match the messy, mundane realities of mortality...So what do we do when the beautiful, universal, eternal ideals of the gospel clash with the painful, individual, mortal realities of life?"
+
+[Joyfully Receive the Unexpected Messiah](https://speeches.byu.edu/talks/dieter-f-uchtdorf/joyfully-receive-the-unexpected-messiah/), Dieter F. Uchtdorf, April 2025.
+
+## Final Thoughts
+
+- Never give up on the *ideal*.
+- Don't disregard the *real*.
+
+"If you wait for sorrow to end before you experience joy, you might miss joy completely. To experience a measure of sorrow may enable your heart and mind to receive pure heavenly joy!"
+
+[Joyfully Receive the Unexpected Messiah](https://speeches.byu.edu/talks/dieter-f-uchtdorf/joyfully-receive-the-unexpected-messiah/), Dieter F. Uchtdorf, April 2025.
+
+## Final Thoughts
+
+"How is that possible? The answer comes - as answers so often do - from Jesus Christ and the plan of happiness given by the Father. To use Eve’s words, it is
+
+'the joy of our redemption, and the eternal life which God giveth unto all the obedient.'"
+
+[Joyfully Receive the Unexpected Messiah](https://speeches.byu.edu/talks/dieter-f-uchtdorf/joyfully-receive-the-unexpected-messiah/), Dieter F. Uchtdorf, April 2025.
+
+## Assist Others in Their Quest For Eternal Life
+
+"The key, it seems to me, is to know and understand your own capabilities and limitations and then to pace yourself, allocating and prioritizing your time, your attention, and your resources to wisely help others, including your family, in their quest for eternal life."
+
+"Oh Be Wise", Elder M. Russell Ballard, Nov. 2006.
