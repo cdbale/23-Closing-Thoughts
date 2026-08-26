@@ -7,6 +7,10 @@ output:
     css: style.css
 ---
 
+## Complete Your Student Ratings!
+
+https://studentratings.byu.edu/
+
 ## Ask Yourself the Following
 
 Did I use AI to complete the assignment, or did AI complete the assignment for me?
@@ -73,6 +77,28 @@ One of my very valuable teaching assistants has asked me to share some thoughts.
 ## Request for Closing Remarks from ChatGPT
 
 "Pretend that you are a very valuable tutor for a marketing analytics class. The students have been coming to you for help throughout the semester, but the class is coming to an end. Do you have any last thoughts/closing remarks for your students?"
+
+## (Actual) TA Advice!
+
+- Preserve your agency! Tools (like AI) should help us do a *better* job, not do the job for us.
+- Never stop learning (eternal progression)
+- Everyone has different skills and rates at which they learn - don't give up just because you think someone does something better than you!
+
+## (Actual) TA Advice (Pt. 2)!
+
+- Don't be afraid to explore new things and pivot when you need to! Jobs, internships, skillsets, etc. can all change!
+- Be relentless in your pursuit of truth. How? Ask questions!
+
+## (Actual) TA Advice (Pt. 3)!
+
+- **Show Up**. Nobody has everything (or maybe anything) figured out. If you show up, put in effort, be kind, and be humble - you will go far.
+- The need for people who *actually* care has never been greater. You can grab some low hanging fruit if you just show up and give some effort.
+
+## (Actual) TA Advice (Pt. 4)!
+
+- Hold fiercely to your commitments! This builds invaluable trust.
+- You reap what you sow. Effort and work will outperform natural talent in the long run.
+- Any experience is good experience. Be grateful for opportunities.
 
 ## Do You Sometimes Feel Like This?
 
